@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{
+  --font-Arial : Arial, sans-serif ;
+};
+
+
+ 
+
+html {
+  scroll-behavior: smooth;
+}
+
